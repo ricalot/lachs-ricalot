@@ -1,2 +1,5 @@
-# lachs-ricalot
-lachie and dads test build
+# Msedge
+
+A cross-platform web browser developed by Microsoft and based on Chromium.
+
+---
